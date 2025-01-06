@@ -2,4 +2,4 @@
 Personal portfolio of Kiran Pai
 
 
-Check the live website at https://kiranpaiportfolio.herokuapp.com/
+Check the live website at (https://kiranpaiportfolio.netlify.app/)
